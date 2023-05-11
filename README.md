@@ -4,8 +4,8 @@ I am Pulkit Rawat, I do coding mainly in **Python** and **JavaScript**. I really
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitRawat&show_icons=true)  
 ## Skills 
-* 🅿️ Python,deep learning,open cv
-* 💻 JS,HTML,CSS
+* 🅿️ Python, deep learning, open cv
+* 💻 JS, HTML, CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pulkit-rawat-ba554b26a/)  
 
