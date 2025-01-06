@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pulkit Rawat
 
-I am Pulkit Rawat, I do coding mainly in **Python** and **CPP**. I really enjoy working with tools like tansformers, scikit-learn, opencv,py-tesseract .I have done many projects on Machine learning and enjoy analyzing dataets and deriving insights. I am Presently learning DSA.
+I am Pulkit Rawat, I do coding mainly in **Python** and **C++**. I really enjoy working with tools like tansformers, scikit-learn, opencv,py-tesseract .I have done many projects on Machine learning and enjoy analyzing dataets and deriving insights. I am Presently learning DSA.
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitRawat&show_icons=true)--> 
 ## Skills
 * Gen Ai, LLM, NLP 
