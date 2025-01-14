@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Pulkit Rawat
 
-I am Pulkit Rawat, 4<sup>th</sup> B.Tech student at IIT Roorkee. I do coding mainly in **Python** and **C++**. I really enjoy working with tools like tansformers, MY-SQL, scikit-learn, opencv,py-tesseract. I have done many projects on Machine learning and enjoy analyzing datasets and deriving insights. I am Presently learning DSA.
+I am Pulkit Rawat, 4<sup>th</sup> year B.Tech student at IIT Roorkee. I code mainly in **Python** and **C++**. I really enjoy working with tools like tansformers, MY-SQL, scikit-learn, opencv, py-tesseract. I have done many projects on Machine learning and enjoy analyzing datasets and deriving insights. I am Presently learning DSA using C++.
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=PulkitRawat&show_icons=true)--> 
 ## Skills
-* Gen Ai, LLM, NLP 
+* Gen AI, LLM, NLP 
 * 🅿️ Python, Data Science, Deep learning, Machine learning, neural network 
 * 🖥️ C++, Data Stucture and Algoritm
 * 👨‍💻 SQL
